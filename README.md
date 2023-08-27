@@ -53,6 +53,7 @@ Sincerely,</p>
 ### Languages/Frameworks I'm good at:
 <code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/solidity.png" height="42"></a></code>
 <code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/solana.png" height="42"></a></code>
+<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/hardhat.png" height="42"></a></code>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/JSTop1Coder/logos/blob/master/Laravel.png" height="42"></a></code>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/JSTop1Coder/logos/blob/master/node.png" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/JSTop1Coder/logos/blob/master/react.png" height="42"></a></code>
@@ -68,6 +69,7 @@ Sincerely,</p>
 
 ### Languages/Frameworks I'm learning:
 <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://github.com/JSTop1Coder/logos/blob/master/django.png" height="42"></a></code>
+<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://github.com/JSTop1Coder/logos/blob/master/rust.png" height="42"></a></code>
 
 ### Environments I work with:
 
