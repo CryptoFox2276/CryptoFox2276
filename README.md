@@ -51,17 +51,16 @@ Sincerely,</p>
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
-<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/solidity.png" height="42"></a></code>
+<code><a href="https://soliditylang.com/"><img alt="Solidity" title="Solidity" src="https://github.com/JSTop1Coder/logos/blob/master/solidity.png" height="42"></a></code>
 <code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/solana.png" height="42"></a></code>
-<code><a href="https://solana.com/"><img alt="Solana" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/hardhat.png" height="42"></a></code>
+<code><a href="https://www.rust-lang.org/"><img alt="Rust" title="Rust" src="https://github.com/JSTop1Coder/logos/blob/master/rust.png" height="42"></a></code>
+<code><a href="https://hardhat.org/"><img alt="Hardhat" title="Solana" src="https://github.com/JSTop1Coder/logos/blob/master/hardhat.png" height="42"></a></code>
 <code><a href="https://laravel.com"><img alt="Laravel" title="Laravel" src="https://github.com/JSTop1Coder/logos/blob/master/Laravel.png" height="42"></a></code>
 <code><a href="https://nodejs.org"><img alt="Node.js" title="Node.js" src="https://github.com/JSTop1Coder/logos/blob/master/node.png" height="42"></a></code>
+<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/JSTop1Coder/logos/blob/master/angular.png" height="42"></a></code>
 <code><a href="https://reactjs.org"><img alt="React.js" title="React.js" src="https://github.com/JSTop1Coder/logos/blob/master/react.png" height="42"></a></code>
-<code><a href="https://rubyonrails.org"><img alt="Ruby On Rails" title="React.js" src="https://github.com/JSTop1Coder/logos/blob/master/ruby.png" height="42"></a></code>
 <code><a href="https://vuejs.org"><img alt="Vue.js" title="Vue.js" src="https://github.com/JSTop1Coder/logos/blob/master/vue.png" height="42"></a></code>
 <code><a href="https://java.com"><img alt="Java" title="Java" src="https://github.com/JSTop1Coder/logos/blob/master/java1.png" height="42"></a></code>
-<code><a href="https://angular.io/"><img alt="Angular" title="Agnular" src="https://github.com/JSTop1Coder/logos/blob/master/angular.png" height="42"></a></code>
-<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/JSTop1Coder/logos/blob/master/python.png" height="42"></a></code>
 <code><a href="https://www.mysql.com"><img alt="Python" title="Mysql" src="https://github.com/JSTop1Coder/logos/blob/master/mysql.png" height="42"></a></code>
 <code><a href="https://www.postgresql.org"><img alt="PostgreSQL" title="PostgreSQL" src="https://github.com/JSTop1Coder/logos/blob/master/postgresql.png" height="42"></a></code>
 <code><a href="https://codeigniter.com/"><img alt="Codeigniter" title="Codeigniter" src="https://github.com/JSTop1Coder/logos/blob/master/ci.png" height="42"></a></code>
@@ -69,7 +68,9 @@ Sincerely,</p>
 
 ### Languages/Frameworks I'm learning:
 <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://github.com/JSTop1Coder/logos/blob/master/django.png" height="42"></a></code>
-<code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="https://github.com/JSTop1Coder/logos/blob/master/rust.png" height="42"></a></code>
+<code><a href="https://www.www.rust-lang.org/"><img alt="Rust" title="Rust" src="https://github.com/JSTop1Coder/logos/blob/master/rust.png" height="42"></a></code>
+<code><a href="https://python.org"><img alt="Python" title="Python" src="https://github.com/JSTop1Coder/logos/blob/master/python.png" height="42"></a></code>
+<code><a href="https://rubyonrails.org"><img alt="Ruby On Rails" title="React.js" src="https://github.com/JSTop1Coder/logos/blob/master/ruby.png" height="42"></a></code>
 
 ### Environments I work with:
 
