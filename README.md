@@ -1,6 +1,6 @@
 
 
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square"></h2>
+## Hi there 👋 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square">
 
 ![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <br>
@@ -33,20 +33,28 @@
 ![](https://img.shields.io/badge/Expo-expo-informational?style=flat&logo=expo&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Flutter-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 
-<p align="justify">I believe I would be an excellent fit for this position since I am a software engineer with a wide variety of experience in the field.</p>
+##
+<p align="justify">I am a software engineer with a wide variety of experience in the field.</p>
 
-<p align="justify">I tend to view myself as a generalist since I try not to focus on any given technology. 
-My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, 
-and I have 8 years of experience. </p>
+<p align="justify">
+  I tend to view myself as a generalist since I try not to focus on any given technology. My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, and I have 8 years of experience.
+  
+  In addition, I'm familiar with various version control tools like GitHub and GitLab, as well as task management tools like Jira and Trello. I'm also knowledgeable about several kinds of testing systems.
+  
+  Above and beyond, I have a great passion for blockchain & cryptocurrency like web3.js, Dapp, DeFi, ERC721, ERC1155, ERC20 etc and software technology as well.</p>
 
-<p align="justify">As a software engineer, I'm familiar with GitHub, GitLab, etc for version control and Jira and Trello for tasks management.</p>
+<p>Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance.</p>
+<p align="justify">I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
 
-<p align="justify">Also, I'm familiar with several kinds of testing systems.
-I have been exposed to a wide variety of technologies in my career and consider myself to be very adaptable.</p>
-
-<p align="justify">Because of my breadth of experience, I believe that I would make an excellent addition to your team.
+<p align="justify">Feel free to check out my repositories and reach out if you're interested in collaborating!
 
 Sincerely,</p>
+
+##
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sailingdev&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
+
 
 ## My Skills
 
