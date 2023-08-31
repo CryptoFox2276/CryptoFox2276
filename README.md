@@ -78,6 +78,8 @@ Sincerely,</p>
 <code><a href="https://aws.amazon.com/"><img alt="AWS" title="AWS" src="https://github.com/JSTop1Coder/logos/blob/master/aws.png" height="42"></a></code>
 <code><a href="https://azure.microsoft.com/en-us/services/devops/"><img alt="GitHub" title="Azure DevOps" src="https://github.com/JSTop1Coder/logos/blob/master/azure.png" height="42"></a></code>
 
+<br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jstop1coder&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
     &nbsp;
