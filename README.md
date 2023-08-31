@@ -1,6 +1,6 @@
 
 
-## Hi there 👋 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=topskilldev&style=flat-square">
+## Hi there 👋 <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=jstop1coder&style=flat-square">
 
 ![](https://img.shields.io/badge/Javascript-javascript-yellow?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 <br>
@@ -52,7 +52,7 @@ Sincerely,</p>
 
 ##
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sailingdev&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jstop1coder&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 
