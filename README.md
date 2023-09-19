@@ -88,8 +88,8 @@ Sincerely,</p>
 
 <br>
 <br>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jstop1coder&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
     &nbsp;
   <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jstop1coder&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
-</p>
+</div>
