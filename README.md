@@ -50,12 +50,6 @@
 
 Sincerely,</p>
 
-##
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jstop1coder&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
-
 ## My Skills
 
 ### Languages/Frameworks I'm good at:
@@ -90,5 +84,5 @@ Sincerely,</p>
 <br>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jstop1coder&theme=highcontrast&include_all_commits=true" alt="my github stats" height="190px" />
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jstop1coder&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="190px">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jstop1coder&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="190px" />
 </div>
