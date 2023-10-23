@@ -37,7 +37,7 @@
 <p align="justify">I am a software engineer with a wide variety of experience in the field.</p>
 
 <p align="justify">
-  I tend to view myself as a generalist since I try not to focus on any given technology. My skills range from PHP(CI, Laravel), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, and I have 8 years of experience.
+  I tend to view myself as a generalist since I try not to focus on any given technology. My skills range from PHP(CI, Laravel, Shopify), Node, React, Vue, Angular, Ruby On Rails, Java, Swift, React-Native, Flutter, Django to Mysql, Postgres, MongoDB, and I have 8 years of experience.
   
   In addition, I'm familiar with various version control tools like GitHub and GitLab, as well as task management tools like Jira and Trello. I'm also knowledgeable about several kinds of testing systems.
   
